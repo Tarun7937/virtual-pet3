@@ -12,7 +12,7 @@ function preload()
   //load images here
   dogimg1 = loadImage("images/dogImg.png")
   dogimg2 = loadImage("images/dogImg1.png")
-  bedroom = loadImage("images/living Room.png");
+  bedroom = loadImage("images/Living Room.png");
   garden = loadImage("images/Garden.png");
   washroom= loadImage("images/Wash Room.png");
 
