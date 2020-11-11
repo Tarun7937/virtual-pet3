@@ -4,7 +4,7 @@ class Food {
 {
     this.foodstock = 0;
     this.fedtime = 0;
-    this.image = loadImage("images/Milk.png");
+    this.image = loadImage("images/milk.png");
    
 }
 display(){
